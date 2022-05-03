@@ -27,7 +27,7 @@ Start Car, plug adapter into car, plug adapter into laptop, ensure adapter is vi
 
 ## Diagnose
 This photo shows there is a misfire on cylinder 6
-![alt text](/assets/img/posts/2021-02-06-symantec-vip/Yubikey-04.png "Yubikey-secret")
+![alt text](/assets/img/posts/2022-05-03-volvo-vida/misfire.jpg "Misfire Cylinder 6")
 
 I swapped the coil packs between cylinder 6 and 5, then re-scanned the vehicle.  The diagnostic code now shows current on coil 5 and previous on cylinder 6 (missed a photo).  I installed a new [coil pack](https://www.amazon.com/Bosch-0221604008-Ignition-Coil-Plug/dp/B0048E10OY) for $50, cleared the diagnostic codes and went for a drive!
 
