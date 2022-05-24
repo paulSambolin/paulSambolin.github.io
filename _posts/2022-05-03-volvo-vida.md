@@ -32,4 +32,4 @@ This photo shows there is a misfire on cylinder 6
 I swapped the coil packs between cylinder 6 and 5, then re-scanned the vehicle.  The diagnostic code now shows current on coil 5 and previous on cylinder 6 (missed a photo).  I installed a new [coil pack](https://www.amazon.com/Bosch-0221604008-Ignition-Coil-Plug/dp/B0048E10OY) for $50, cleared the diagnostic codes and went for a drive!
 
 ## Closing Advice
-I have diagnosed and replaced coil packs on other vehicles so this was a straightforward repiar.  The hard part in the past was the Volvo VIDA software configuration.  Spending $5 on the image from volvodiag.com was well worth it
+I have diagnosed and replaced coil packs on other vehicles so this was a straightforward repiar.  The hard part in the past was the Volvo VIDA software configuration.  Spending $5 on the image from volvodiag.com was well worth it.  - Paul
